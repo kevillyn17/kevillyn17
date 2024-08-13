@@ -2,4 +2,6 @@
 olá sou #kevillyn
 eu sou aluna do ccm gregorio szeremeta 
 estou aprendendo programação.
-[https://media1.tenor.com/m/T7jLYEXvonMAAAAC/peach-goma.gif]
+
+![GIF](https://media1.tenor.com/m/T7jLYEXvonMAAAAC/peach-goma.gif)
+
